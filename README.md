@@ -1,4 +1,4 @@
-# Aplicaciones del procesado digital de la señal: Procesado de imágenes (Curso 24-25. Grado en Matemáticas e Informática de la UPM)
+# Aplicaciones del procesado digital de la señal: Procesado de imágenes médicas (Curso 24-25. Grado en Matemáticas e Informática de la UPM)
 
 ## Autores: Sebastián Kay Conde Lorenzo & Francisco López López
 
