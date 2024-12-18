@@ -3,3 +3,4 @@ imagenes/dsp/*.dcm filter=lfs diff=lfs merge=lfs -text
 imagenes/xray/*.dcm filter=lfs diff=lfs merge=lfs -text
 imagenes/results/*.png filter=lfs diff=lfs merge=lfs -text
 imagenes/dsp.zip filter=lfs diff=lfs merge=lfs -text
+docs/ims/*/*.jpg filter=lfs diff=lfs merge=lfs -text
